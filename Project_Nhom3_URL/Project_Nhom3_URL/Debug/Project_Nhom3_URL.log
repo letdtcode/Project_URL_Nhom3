@@ -1,0 +1,5 @@
+﻿  Project_Nhom3_URL.cpp
+C:\Users\HP\OneDrive\Máy tính\Project_CTDL_URL\Project_URL_Nhom3\Project_Nhom3_URL\Project_Nhom3_URL\Project_Nhom3_URL.cpp(164,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\OneDrive\Máy tính\Project_CTDL_URL\Project_URL_Nhom3\Project_Nhom3_URL\Project_Nhom3_URL\Project_Nhom3_URL.cpp(530,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HP\OneDrive\Máy tính\Project_CTDL_URL\Project_URL_Nhom3\Project_Nhom3_URL\Project_Nhom3_URL\Project_Nhom3_URL.cpp(530,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Project_Nhom3_URL.vcxproj -> C:\Users\HP\OneDrive\Máy tính\Project_CTDL_URL\Project_URL_Nhom3\Project_Nhom3_URL\Debug\Project_Nhom3_URL.exe
